@@ -93,11 +93,11 @@ The average discount rate is increasing over time with profit decreasing especia
 
 <h2>Recommendation</h2>
 
-- <b>Invest in teams that are already successful. This is a safer bet, as you know that the team has a track record of winning and generating revenue.</b> 
-- <b>Invest in teams that are up-and-coming. These teams may not be as successful as the established teams yet, but they have the potential to grow rapidly. </b>
-- <b>Sponsor a team that is popular in your target market.</b>
-- <b>Sponsor an event that is attended by your target market. </b> 
-- <b>Invest in esports events, Esports events can be very profitable, and they offer a good way to reach a large audience. </b>
+- <b>Focus on highest selling and profitable subcategories.</b> 
+- <b>Selling tables in bundles with profitable subcategories  </b>
+- <b>Re-evaluate selling price for underperforming subcategories . </b>
+- <b>Target consumer and corporates segment (70% of customer base) with special  promotions and bundles .  </b> 
+- <b>Regulate the discounts rate across subcategories  </b>
 
 
 <!--
