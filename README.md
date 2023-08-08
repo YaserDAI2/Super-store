@@ -56,7 +56,7 @@ And if we look to the counties The United States have huge gap between other cou
 <br />
 <br />
 In the opposite side if we look to the worst counties there are counties only gain losses especially Sweden <br/>
-<img src="https://i.imgur.com/QEiyoVg.png"/>
+<img src="https://i.imgur.com/LTVJpO1.png"/>
 <br />
 <br />
 Based on a research the reason is may due to the high competitive <br/>
